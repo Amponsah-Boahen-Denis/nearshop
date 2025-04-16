@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nearshop/static/css/main.040ba577.css",
+    "main.js": "/nearshop/static/js/main.63a22d60.js",
+    "index.html": "/nearshop/index.html",
+    "main.040ba577.css.map": "/nearshop/static/css/main.040ba577.css.map",
+    "main.63a22d60.js.map": "/nearshop/static/js/main.63a22d60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.040ba577.css",
+    "static/js/main.63a22d60.js"
+  ]
+}
